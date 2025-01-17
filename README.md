@@ -1,6 +1,7 @@
 # Camunda Modeler
 
 [![CI](https://github.com/camunda/camunda-modeler/actions/workflows/CI.yml/badge.svg)](https://github.com/camunda/camunda-modeler/actions/workflows/CI.yml)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlo-fro%2Fcamunda-modeler.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FFlo-fro%2Fcamunda-modeler?ref=badge_shield)
 
 An integrated modeling solution for BPMN, DMN, and Forms based on [bpmn.io](http://bpmn.io).
 
@@ -54,3 +55,6 @@ By participating to this project, please uphold to our [Code of Conduct](https:/
 MIT
 
 Uses [bpmn-js](https://github.com/bpmn-io/bpmn-js), [dmn-js](https://github.com/bpmn-io/dmn-js), [cmmn-js](https://github.com/bpmn-io/cmmn-js), and [form-js](https://github.com/bpmn-io/form-js) licensed under the [bpmn.io license](http://bpmn.io/license).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlo-fro%2Fcamunda-modeler.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FFlo-fro%2Fcamunda-modeler?ref=badge_large)
